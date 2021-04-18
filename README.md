@@ -14,8 +14,7 @@ then, locate the terminal at the root project folder and run the following comma
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The page will reload if you make edits.
 
 If you decide to deploy it to a server, just run the command:
 
@@ -41,9 +40,15 @@ The user can select a risk level and see a doughnut chart.
 
 ### Calculator Page
 
-This page allos the user to input custom investment quantities for every category, and make a balance for the selected risk level choosen before.
+This page allows the user to input custom investment quantities for every category, and make a balance for the selected risk level choosen before.
 
 It also shows a list of recommended Transfer actions.
 
 ![](public/calc1.png)
+
+### Demo
+
+This site is currently deployed with Heroku:
+
+[https://finantial.herokuapp.com/](https://finantial.herokuapp.com/)
 
